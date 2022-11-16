@@ -1,8 +1,8 @@
 # BT4012 Fraud Analytics Group Project - Vehicle Insurance Claim Fraud Detection
 
- NUS AY2022/23, Semester 1 (School Project)
+**NUS AY2022/23, Semester 1 (School Project)**
 
- By: Project Group 3 
+**By: Project Group 3**
 
 ## Project Task Description
 We are tasked to apply relevant fraud analysis and machine learning techniques that we have acquired through the course to build a fraud detection process to solve a real-world problem. 
@@ -21,7 +21,7 @@ Therefore, this project aims to identify the different machine learning models t
 
 
 ## Data Information
-The dataset used for this project is a dataset that’s obtained from [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection). It’s a real dataset from an American insurance company that contains 15420 observations and 33 variables in total, with FraudFound_P be our target variable for the classification of vehicle insurance claims. 
+The dataset used for this project is a dataset that’s obtained from [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection). It’s a real dataset from an American insurance company that contains 15420 observations and 33 variables in total, with **FraudFound_P** be our target variable for the classification of vehicle insurance claims. 
 
 
 ## Table of Contents
