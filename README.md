@@ -25,7 +25,7 @@ The dataset used for this project is a dataset that’s obtained from [Kaggle](h
 
 
 ## Table of Contents
-1. Exploratory Data Analysis, EDA (File1)
+1. Exploratory Data Analysis, EDA ([File1](https://github.com/brandaphoon/BT4012_Fraud_Analytics_Group3/blob/main/File1_ExploratoryDataAnalysis_EDA.ipynb))
 
 2. Data Preprocessing/Transformation (File2)
 
