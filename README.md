@@ -27,9 +27,9 @@ The dataset used for this project is a dataset that’s obtained from [Kaggle](h
 ## Table of Contents
 1. Exploratory Data Analysis, EDA ([File1](https://github.com/brandaphoon/BT4012_Fraud_Analytics_Group3/blob/main/File1_ExploratoryDataAnalysis_EDA.ipynb))
 
-2. Data Preprocessing/Transformation (File2)
+2. Data Preprocessing/Transformation ([File2](https://github.com/brandaphoon/BT4012_Fraud_Analytics_Group3/blob/main/File2_ModelsExploration%26Evaluation.ipynb))
 
-3. Models Exploration & Evaluation (File2)
+3. Models Exploration & Evaluation ([File2](https://github.com/brandaphoon/BT4012_Fraud_Analytics_Group3/blob/main/File2_ModelsExploration%26Evaluation.ipynb))
 
 
 ## Programming Language & Technologies Used
